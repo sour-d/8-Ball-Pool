@@ -1,0 +1,18 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+.idea/
+
+# Builds
+*.apk
+*.unitypackage
+UserSettings/Layouts/default-2021.dwlt
+ProjectSettings/SceneTemplateSettings.json
+
+#Text Mesh Pro files
+/[Aa]ssets/[Tt]extMesh Pro/
+/[Aa]ssets/[Tt]extMesh Pro.meta
